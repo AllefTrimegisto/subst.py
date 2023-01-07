@@ -8,8 +8,8 @@ print(nome + " Alexandre") #Concatenação1
 print("Allef", "Alexandre") #Concatenação2
 substituicao = nome.replace("Alexandre", "Domingos")
 print(substituicao)
-print(nome.startswith("Allef")) #Verificando se a string começa com "Edson"
-print(nome.endswith("Alexandre")) #Verificando se a string começa com "Edson"
+print(nome.startswith("Allef")) #Verificando se a string começa com "Allef"
+print(nome.endswith("Alexandre")) #Verificando se a string começa com "Allef"
 print(nome.count("e")) #Verificando quantas letras e (menusculas tem na string)
 maiusculas = nome.upper() #colocando todas as letras maiusculas
 print(maiusculas)
